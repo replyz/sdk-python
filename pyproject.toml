@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "replyz"
+version = "0.0.1"
+description = "[Pre-release placeholder] Official Replyz SDK for Python. In development, first release soon."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+authors = [{ name = "Replyz", email = "hello@replyz.io" }]
+keywords = ["replyz", "email", "ai-agents", "inbox"]
+classifiers = [
+  "Development Status :: 1 - Planning",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Communications :: Email",
+]
+
+[project.urls]
+Homepage = "https://replyz.io"
+Repository = "https://github.com/replyz/sdk-python"
