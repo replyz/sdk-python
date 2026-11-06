@@ -7,7 +7,9 @@
 
 # replyz/sdk-python
 
-Official Replyz SDK for Python.
+The official **Python SDK** for [Replyz](https://replyz.io), the email platform for AI agents. Give each agent its own inbox, wait for incoming email, and extract verification codes and links from Python.
+
+Hosted in the EU. Not for bulk, marketing or disposable email.
 
 **Status:** in development, first release soon.
 
